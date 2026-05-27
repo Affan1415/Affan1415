@@ -1,27 +1,27 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e1b4b,100:1e3a5f&height=220&section=header&text=Affan%20Zahir&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20SaaS%20Founder%20%E2%80%A2%20OIC%20%26%20Boomi%20Certified&descAlignY=60&descAlign=50&descColor=93c5fd&fontAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:1e1b4b,100:1e3a5f&amp;height=220&amp;section=header&amp;text=Affan%20Zahir&amp;fontSize=72&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20SaaS%20Founder%20%E2%80%A2%20OIC%20%26%20Boomi%20Certified&amp;descAlignY=60&amp;descAlign=50&amp;descColor=93c5fd&amp;fontAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&height=50&lines=Built+Yetti.ai+solo+%E2%80%94+10+paying+customers;OIC+%26+Dell+Boomi+Certified+Engineer;RAG+%7C+Agno+%7C+LangChain+%7C+Next.js+%7C+FastAPI;WhatsApp+%2B+Instagram+%2B+Meta+Business+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=50&amp;lines=Built+Yetti.ai+solo+%E2%80%94+10+paying+customers;OIC+%26+Dell+Boomi+Certified+Engineer;RAG+%7C+Agno+%7C+LangChain+%7C+Next.js+%7C+FastAPI;WhatsApp+%2B+Instagram+%2B+Meta+Business+APIs" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://linkedin.com/in/affan-zahir" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0077B5" />
   </a>
   &nbsp;
   <a href="mailto:affanzahir26@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=EA4335" />
   </a>
   &nbsp;
   <a href="https://yetti.ai" target="_blank">
-    <img src="https://img.shields.io/badge/Yetti.ai-Live%20Product-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Yetti.ai-Live%20Product-2563EB?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Affan1415&style=for-the-badge&color=2563eb&label=VISITORS&abbreviated=true" />
+  <img src="https://komarev.com/ghpvc/?username=Affan1415&amp;style=for-the-badge&amp;color=2563eb&amp;label=VISITORS&amp;abbreviated=true" />
 </div>
 
 ---
@@ -35,7 +35,7 @@
 ### Flagship Product
 
 <a href="https://yetti.ai">
-  <img src="https://img.shields.io/badge/yetti.ai-LIVE-2563EB?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/yetti.ai-LIVE-2563EB?style=flat-square&amp;logo=vercel&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/10_Paying_Businesses-MRR-16a34a?style=flat-square" />
 </a>
 
@@ -64,7 +64,7 @@ At **GoSaaS**, building production OIC integrations:
 
 <br/>
 
-<img src="https://img.shields.io/badge/Oracle_OIC-Certified-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_OIC-Certified-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Dell_Boomi-Certified-00adef?style=flat-square" />
 
 </td>
@@ -81,35 +81,35 @@ At **GoSaaS**, building production OIC integrations:
 
 **Integration & Enterprise**
 
-<img src="https://skillicons.dev/icons?i=java&theme=dark" height="36" title="Java"/>
+<img src="https://skillicons.dev/icons?i=java&amp;theme=dark" height="36" title="Java"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Oracle_OIC-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Dell_Boomi-00adef?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/NetSuite-1a1a2e?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/JD_Edwards-1e3a5f?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_OIC-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Dell_Boomi-00adef?style=for-the-badge&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/NetSuite-1a1a2e?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/JD_Edwards-1e3a5f?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" />
 
 <br/><br/>
 
 **AI & LLM**
 
-<img src="https://img.shields.io/badge/Agno-2563EB?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Agno-2563EB?style=for-the-badge&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
 
 <br/><br/>
 
 **Frontend · Backend · Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,python,fastapi,nodejs,docker&theme=dark" height="36"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,python,fastapi,nodejs,docker&amp;theme=dark" height="36"/>
 
 <br/><br/>
 
 **Meta APIs**
 
-<img src="https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<img src="https://img.shields.io/badge/Instagram_Graph_API-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-<img src="https://img.shields.io/badge/Messenger_API-0866FF?style=for-the-badge&logo=messenger&logoColor=white" />
+<img src="https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram_Graph_API-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Messenger_API-0866FF?style=for-the-badge&amp;logo=messenger&amp;logoColor=white" />
 
 </div>
 
@@ -120,17 +120,17 @@ At **GoSaaS**, building production OIC integrations:
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Affan1415&show_icons=true&theme=github_dark&border_color=21262d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12&hide_border=false&rank_icon=github&include_all_commits=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Affan1415&amp;show_icons=true&amp;theme=github_dark&amp;border_color=21262d&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;border_radius=12&amp;hide_border=false&amp;rank_icon=github&amp;include_all_commits=true" height="175"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affan1415&layout=compact&theme=github_dark&border_color=21262d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12&hide_border=false&langs_count=8" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affan1415&amp;layout=compact&amp;theme=github_dark&amp;border_color=21262d&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_radius=12&amp;hide_border=false&amp;langs_count=8" height="175"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Affan1415&theme=github-dark-blue&border=21262d&background=0d1117&ring=58a6ff&fire=f59e0b&currStreakLabel=58a6ff&border_radius=12&hide_border=false" height="175"/>
+  <img src="https://streak-stats.demolab.com/?user=Affan1415&amp;theme=github-dark-blue&amp;border=21262d&amp;background=0d1117&amp;ring=58a6ff&amp;fire=f59e0b&amp;currStreakLabel=58a6ff&amp;border_radius=12&amp;hide_border=false" height="175"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Affan1415&theme=github_dark&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Affan1415&amp;theme=github_dark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=7&amp;rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%"/>
 </div>
 
 ---
@@ -139,7 +139,7 @@ At **GoSaaS**, building production OIC integrations:
 
 <div align="center">
 
-**Open to remote roles · $2,500–$3,500/month · Available now**
+**Building AI-powered products · Open to remote collaboration**
 
 [yetti.ai](https://yetti.ai) &nbsp;·&nbsp; [linkedin.com/in/affan-zahir](https://linkedin.com/in/affan-zahir) &nbsp;·&nbsp; affanzahir26@gmail.com &nbsp;·&nbsp; Lahore, Pakistan
 
@@ -148,5 +148,5 @@ At **GoSaaS**, building production OIC integrations:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:1e1b4b,100:0d1117&height=130&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e3a5f,50:1e1b4b,100:0d1117&amp;height=130&amp;section=footer&amp;animation=fadeIn" width="100%"/>
 </div>
