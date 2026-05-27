@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:1e3a8a&amp;height=200&amp;section=header&amp;text=Affan%20Zahir&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;fontAlignX=50&amp;desc=Full-Stack%20AI%20Engineer%20%7C%20SaaS%20Founder%20%7C%20OIC%20%26%20Boomi%20Certified&amp;descAlignY=56&amp;descAlign=50&amp;descColor=93c5fd" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Affan%20Zahir&amp;fontSize=70&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20AI%20Engineer%20%7C%20SaaS%20Founder%20%7C%20OIC%20%26%20Boomi%20Certified&amp;descAlignY=56&amp;descAlign=50&amp;descColor=b0c4de" width="100%"/>
 </div>
 
 <div align="center">
@@ -148,5 +148,5 @@ At **GoSaaS**, building production OIC integrations:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e3a5f,50:1e1b4b,100:0d1117&amp;height=130&amp;section=footer&amp;animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=20,11,6&amp;height=130&amp;section=footer&amp;animation=fadeIn" width="100%"/>
 </div>
