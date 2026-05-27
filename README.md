@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:1e1b4b,100:1e3a5f&amp;height=220&amp;section=header&amp;text=Affan%20Zahir&amp;fontSize=72&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20SaaS%20Founder%20%E2%80%A2%20OIC%20%26%20Boomi%20Certified&amp;descAlignY=60&amp;descAlign=50&amp;descColor=93c5fd&amp;fontAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:1e3a8a&amp;height=200&amp;section=header&amp;text=Affan%20Zahir&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;fontAlignX=50&amp;desc=Full-Stack%20AI%20Engineer%20%7C%20SaaS%20Founder%20%7C%20OIC%20%26%20Boomi%20Certified&amp;descAlignY=56&amp;descAlign=50&amp;descColor=93c5fd" width="100%"/>
 </div>
 
 <div align="center">
@@ -41,7 +41,7 @@
 
 **Social Automation SaaS** — built alone, from zero.
 
-Automates social engagement & booking for small businesses across **WhatsApp**, **Instagram**, and **Messenger** with agentic AI.
+Automates social engagement and booking for small businesses across **WhatsApp**, **Instagram**, and **Messenger** with agentic AI.
 
 ```
 Stack:   Next.js · FastAPI · Agno
